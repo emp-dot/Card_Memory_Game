@@ -1,5 +1,5 @@
 # Card_Memory_Game
-This game was possible through <b Standard iOS Program https://www.youtube.com/watch?v=bqu6BquVi2M&t=2s /b>
+This game was possible through <h Standard iOS Program https://www.youtube.com/watch?v=bqu6BquVi2M&t=2s h/>
 
 
 ### App Description
