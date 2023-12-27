@@ -1,5 +1,5 @@
 # Card_Memory_Game
-1. This memory game uses MVVM architecture
+This game was possible through <b Standard iOS Program https://www.youtube.com/watch?v=bqu6BquVi2M&t=2s /b>
 
 
 ### App Description
